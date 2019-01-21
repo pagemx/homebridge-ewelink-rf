@@ -197,6 +197,9 @@ function eWeLink(log, config, api) {
                                 case 'PSB-B04-GL' :
                                     switchesAmount = 2;
                                     break;
+                                case 'PSF-A04-GL' :
+                                    switchesAmount = 4;
+                                    break;
                                 case 'PSF-BRA-GL' :
                                     switchesAmount = 4;
                                     break;     
